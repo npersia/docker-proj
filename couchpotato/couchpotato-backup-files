@@ -1,0 +1,6 @@
+APPPATH/settings.conf
+APPPATH/cache
+APPPATH/database
+APPPATH/db_backup
+APPPATH/logs/CouchPotato.log
+APPPATH/logs/error.log

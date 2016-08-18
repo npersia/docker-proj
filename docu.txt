@@ -1,0 +1,3 @@
+apt-get update
+apt-get install git-core vim
+git clone https://github.com/htpcBeginner/AtoMiC-ToolKit ~/AtoMiC-ToolKit
